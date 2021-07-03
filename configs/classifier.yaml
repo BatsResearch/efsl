@@ -1,0 +1,6 @@
+model: classifier
+model_args:
+    encoder: resnet12
+    encoder_args: {avg_pool: true, drop_rate: 0.1, dropblock_size: 5}
+    classifier: linear-classifier
+    classifier_args: {}
