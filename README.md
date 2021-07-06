@@ -93,7 +93,7 @@ If you use this repo, please cite the corresponding paper.
 
 ```
 @article{esfandiarpoor:arxiv20,
-  Author = {Esfandiarpoor, R. and Pu, A and Hajabdollahi, M. and Bach, S. H.},
+  Author = {Esfandiarpoor, R. and Pu, A. and Hajabdollahi, M. and Bach, S. H.},
   Title = {Extended Few-Shot Learning: Exploiting Existing Resources for Novel Tasks},
   Volume = {arXiv:2012.07176 [cs.LG]},
   Year = {2020}}
